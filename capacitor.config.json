@@ -1,0 +1,6 @@
+{
+  "appId": "com.tuempresa.precioPlus",
+  "appName": "PrecioPlus",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

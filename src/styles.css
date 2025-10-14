@@ -1,0 +1,3 @@
+/* Basic styles. If you configure Tailwind, replace with Tailwind directives. */
+body { font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; margin:0; background:#ffffff; color:#0f172a; }
+input, button { font-family: inherit; }
